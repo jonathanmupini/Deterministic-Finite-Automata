@@ -4,8 +4,8 @@ In The Troll's Bridge, the player is forced to leave their home country because 
 
 3 consecutive tails → you cross the bridge unharmed and win
 
-a means tails and,
-b means heads.
+'a' means tails and,
+'b' means heads.
 
 Therefore, for any 3 consecutive tails the path followed is Q0 → Q1 → Q3 → Q5 where Q5 is the win state of the game. 
 
